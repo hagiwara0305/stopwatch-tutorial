@@ -1,0 +1,10 @@
+C:\Users\shion\Desktop\StopWatch_tutorial\StopWatch_tutorial\obj\Debug\StopWatch_tutorial.csprojAssemblyReference.cache
+C:\Users\shion\Desktop\StopWatch_tutorial\StopWatch_tutorial\obj\Debug\StopWatch_tutorial.Form1.resources
+C:\Users\shion\Desktop\StopWatch_tutorial\StopWatch_tutorial\obj\Debug\StopWatch_tutorial.Properties.Resources.resources
+C:\Users\shion\Desktop\StopWatch_tutorial\StopWatch_tutorial\obj\Debug\StopWatch_tutorial.csproj.GenerateResource.cache
+C:\Users\shion\Desktop\StopWatch_tutorial\StopWatch_tutorial\obj\Debug\StopWatch_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\shion\Desktop\StopWatch_tutorial\StopWatch_tutorial\bin\Debug\StopWatch_tutorial.exe.config
+C:\Users\shion\Desktop\StopWatch_tutorial\StopWatch_tutorial\bin\Debug\StopWatch_tutorial.exe
+C:\Users\shion\Desktop\StopWatch_tutorial\StopWatch_tutorial\bin\Debug\StopWatch_tutorial.pdb
+C:\Users\shion\Desktop\StopWatch_tutorial\StopWatch_tutorial\obj\Debug\StopWatch_tutorial.exe
+C:\Users\shion\Desktop\StopWatch_tutorial\StopWatch_tutorial\obj\Debug\StopWatch_tutorial.pdb
